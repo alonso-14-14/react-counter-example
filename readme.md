@@ -3,7 +3,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-Small counter example using react.
+Small counter example using react. React introduction by @queckezz
 
 ## Installation
 
