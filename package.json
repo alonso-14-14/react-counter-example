@@ -1,0 +1,9 @@
+{
+  "name": "sdrl.ch",
+  "version": "0.0.1",
+  "dependencies": {
+    "quik": "^0.4.4",
+    "rebass": "^0.2.3",
+    "reflexbox": "^1.1.0"
+  }
+}
